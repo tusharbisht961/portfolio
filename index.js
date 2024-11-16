@@ -12,7 +12,7 @@ const portfolioData = {
         name: "Tushar Bisht",
         title: "Software Developer | Gurgaon, India",
         description: "Specializing in React.js, Next.js, and modern frontend technologies",
-        imageUrl: "./assets/self-photo.jpg",
+        imageUrl: "./self-photo.jpg",
         resumeLink: "./assets/tusharbisht resume.pdf"
     },
     skills: [
